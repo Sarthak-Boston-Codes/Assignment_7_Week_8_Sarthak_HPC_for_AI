@@ -7,6 +7,7 @@
 #include <cassert>
 #include <chrono>
 
+
 #define CHECK_CUDA(call) do {                                 \
     cudaError_t err = (call);                                 \
     if (err != cudaSuccess) {                                 \
