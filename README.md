@@ -1,5 +1,5 @@
 # Assignment 7 – Distributed FlashAttention v2 (Forward Pass Only)
-# Note : This porgram was run on local computer(NVIDIA GPU RTX 4050) and not on Modal
+## Note : This porgram was run on local computer(NVIDIA GPU RTX 4050) and not on Modal
 ## Overview
 
 This assignment implements **Distributed FlashAttention v2** as described in **Section 3** of the *FlashAttention-2* paper ([Dao et al., 2023](https://arxiv.org/abs/2307.08691)) using **pure CUDA C**.  
